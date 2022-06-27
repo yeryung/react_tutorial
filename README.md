@@ -1,3 +1,3 @@
 # react_tutorial
 
-## nomadcoders lecture
+## 생활코딩 lecture
